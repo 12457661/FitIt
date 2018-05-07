@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FitIt</string>
+    <string name="user_name">Ian</string>
+    <string name="weight">0</string>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
